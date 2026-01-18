@@ -127,15 +127,9 @@ streamlit run app.py
 
 ## ⚠️ Dataset Note
 
-Due to **GitHub size limits**, the full dataset (380K+ records) is not uploaded.  
+The repository includes a sample CSV file sufficient to run the app and test all functionality.
 
-Included instead:* Sample processed complaints for running the app: [Google Drive link](https://drive.google.com/uc?export=download&id=1k9lEyQN8rsRgJgamHpuyNxk3zAATXsMt)
-
-* Complete processing & modeling code
-* Visual insights generated from full data
-
-> You can replace the sample CSV with the full dataset for complete analytics.
-
+The full dataset (380K+ complaints) is not included due to size.
 
 Included instead:
 
