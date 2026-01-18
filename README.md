@@ -14,6 +14,12 @@ An **AI-driven analytics platform** that transforms large-scale consumer complai
 The system processes **380,000+ consumer complaints**, identifies **high-risk issues and products**, and visualizes insights to support **business, compliance, and risk decision-making**.
 
 ---
+## 🌐 Live Dashboard
+
+Check out the **live AI-Powered Consumer Complaint Risk & Severity Intelligence Dashboard** here:  
+
+[View Dashboard](https://ai-consumer-complaint-risk-severity-3jmi.onrender.com)
+
 
 ## 🎯 Problem Statement
 
